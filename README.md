@@ -29,7 +29,7 @@ You can find the raw data & official analysis here: https://raw.githubuserconten
 - Contrary to Italy and maybe other nations, the partial lockdown in some areas of the Ghana may have assisted in slowing the spread of COVID-19, although not entirely, as we can observe an intermittent spike and decrease in instances. Due of the potential harm to its economy and other factors, Ghana was unable to enforce a complete lockdown. Over time, however, the government started to register instances in all 16 of its regions. This may account for the fluctuating rise and decrease in the number of COVID-19 cases that have been reported.
 
 # Limitation
-It would be helpful to have sufficient data on the various regions of Ghana to evaluate the rise and fall of the virus and perhaps put the introduction of lockdown and its effect as at the time it was implemented in other regions into perspective in order to accurately assess the impact of COVID-19 lockdown in Ghana.
+It would have been helpful if there was sufficient data on the various regions of Ghana to evaluate the rise and fall of the virus and perhaps put the introduction of lockdown and its effect as at the time it was implemented in other regions into perspective in order to accurately assess the impact of COVID-19 lockdown in Ghana.
 
 # Future Work
 Evaluating the impact of vaccination on the death rate as well as how it has contributed to halt or decrease the spread of Covid-19.
