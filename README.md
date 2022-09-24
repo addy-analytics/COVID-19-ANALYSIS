@@ -8,7 +8,7 @@ This analysis uses time series data to monitor the number of COVID-19 victims th
 - how many individuals have reportedly recovered from it
 - how the effect of lockdown impacted on the spread of COVID-19
 
-You can find the raw data & official analysis here: https://raw.githubusercontent.com/datasets/covid-19/main/data/countries-aggregated.csv. This Notebook makes use of Python packages like Pandas (for Data Cleaning/Manipulation) and Plotly-plotly.express and Seaborn (for Data Visualization).
+You can find the raw data & official analysis [here](https://raw.githubusercontent.com/datasets/covid-19/main/data/countries-aggregated.csv). This Notebook makes use of Python packages like Pandas (for Data Cleaning/Manipulation) and Plotly-plotly.express and Seaborn (for Data Visualization).
 
 ## Content
 1. Import Libraries
