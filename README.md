@@ -20,7 +20,7 @@ You can find the raw data & official analysis [here](https://raw.githubuserconte
 4. Data Exploration and Visualization
 
 
-#### KINDLY NOTE: This [Jupyter Notebook](https://github.com/addy-analytics/COVID-19-ANALYSIS/blob/main/COVID-19-Analysis-With-Python.ipynb) contains visualizations in plotly express that could not render well here. Kindly visit this [link](https://nbviewer.org/github/addy-analytics/COVID-19-ANALYSIS/blob/main/COVID-19-Analysis-With-Python.ipynb) to enjoy a full experience. 
+#### KINDLY NOTE: This [Jupyter Notebook](https://github.com/addy-analytics/COVID-19-ANALYSIS/blob/main/COVID-19-Analysis-With-Python.ipynb) contains visualizations in plotly express that could not render well here.  Kindly visit this [link](https://nbviewer.org/github/addy-analytics/COVID-19-ANALYSIS/blob/main/COVID-19-Analysis-With-Python.ipynb) to enjoy a full experience. 
 
 
 # Conclusion
